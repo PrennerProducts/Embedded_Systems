@@ -1,16 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2021.3/bin/ninja/win/ninja.exe" -G Ninja C:\Users\McRebel\Dropbox\MCI\Rechnerstrukturen_&_Embedded_Systems\GitHub_Exercise_Sheets
--- The C compiler identification is GNU 11.2.0
--- The CXX compiler identification is GNU 11.2.0
--- Detecting C compiler ABI info
-CMake Error: Unable to open check cache file for write. C:/Users/McRebel/Dropbox/MCI/Rechnerstrukturen_&_Embedded_Systems/GitHub_Exercise_Sheets/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache
--- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/gcc.exe - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2021.3/bin/mingw/bin/g++.exe - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
--- Configuring incomplete, errors occurred!
-See also "C:/Users/McRebel/Dropbox/MCI/Rechnerstrukturen_&_Embedded_Systems/GitHub_Exercise_Sheets/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+CMakeLists.txt not found in C:\Users\McRebel\Dropbox\MCI\Rechnerstrukturen_&_Embedded_Systems\GitHub_Exercise_Sheets Select CMakeLists.txt
